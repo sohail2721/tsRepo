@@ -19,7 +19,7 @@ import {
   Client,
   Environment,
   OAuthScopePetstoreAuthEnum,
-} from 'swagger-petstore-openapi-3-0-lib';
+} from 'petstore-pkg';
 
 const client = new Client({
   petstoreAuthCredentials: {

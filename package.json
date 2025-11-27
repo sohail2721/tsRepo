@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "2.4.5",
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/cjs/index.js",
@@ -29,10 +29,10 @@
     "trailingComma": "es5",
     "quoteProps": "preserve"
   },
-  "name": "swagger-petstore-openapi-3-0-lib",
+  "name": "petstore-pkg",
   "description": "This is a sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about Swagger at [https://swagger.io](https://swagger.io). In the third iteration of the pet store, we've switched to the design first approach! You can now help us improve the API whether it's by making changes to the definition itself or to the code. That way, with time, we can improve the API in general, and expose some of the new features in OAS3.  Some useful links: - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore) - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)",
   "author": {
-    "name": "APIMATIC SDK Generator",
+    "name": "Sohail",
     "email": "apiteam@swagger.io"
   },
   "devDependencies": {
@@ -55,7 +55,13 @@
     "@apimatic/schema": "^0.7.21",
     "@apimatic/xml-adapter": "^0.3.8"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sohail2721/tsRepo.git"
+  },
   "bugs": {
     "email": "apiteam@swagger.io"
-  }
+  },
+  "keywords": [],
+  "contributors": []
 }

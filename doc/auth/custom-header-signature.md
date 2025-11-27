@@ -22,7 +22,7 @@ Documentation for accessing and setting credentials for api_key.
 You must provide credentials in the client as shown in the following code snippet.
 
 ```ts
-import { Client } from 'swagger-petstore-openapi-3-0-lib';
+import { Client } from 'petstore-pkg';
 
 const client = new Client({
   apiKeyCredentials: {
